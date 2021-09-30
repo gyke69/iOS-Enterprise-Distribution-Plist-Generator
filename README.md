@@ -27,5 +27,6 @@ Allow the script to prompt:
 title: My Awesome App
 bundle-version: 1.0.0
 bundle-identifier: com.kylewbanks.AwesomeApp
+img - http://yourdomain.com/yourinstalltionicon.png
 url: https://kylewbanks.com/AwesomeApp.ipa
 ```
