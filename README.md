@@ -9,7 +9,8 @@ All options can be provided directly when running the script. If the required ar
 - `title` The title of your application for display on the install prompt. (ex. My Awesome App)
 - `bundle-version` The version of your application (ex. 1.0.0)
 - `bundle-identifier` The application's bundle identifier (ex. com.kylewbanks.AwesomeApp) 
-- `url` The URL where the IPA will be hosted (ex. https://kylewbanks.com/AwesomeApp.ipa)
+- `url` The URL where the IPA will be hosted (ex. https://idevice.app/example.ipa)
+- `url` installation app icon. (ex. https://idevice.app/example.ipa)
 - `output-file` Where to output the P-List. (ex. ~/dist/AwesomeApp.plist) [*Optional: By default, outputs to the console.*]
 
 ## Samples
